@@ -1,0 +1,65 @@
+[
+  [
+    "En Argentina, Bolivia, Paraguay y Uruguay casi no se utiliza el término “huevón” sino sus sinónimos “pelotudo” o “boludo”, siguiendo la errónea proporcionalidad entre la estupidez de un hombre y el tamaño de sus testículos (pelotas o bolas).",
+    {
+      "entities":[
+        [
+          73,
+          79,
+          "INSULTO"
+        ],
+        [
+          101,
+          109,
+          "INSULTO"
+        ],
+        [
+          114,
+          120,
+          "INSULTO"
+        ]
+      ]
+    }
+  ],
+  [
+    "Su uso está tan arraigado y diversificado que ha perdido su significado original.",
+    {
+      "entities":[
+      ]
+    }
+  ],
+  [
+    "Como el “huevón” de Chile, su uso se ha convertido en un invocativo, apenas ofensivo: “Che, boludo, vení ayudame con esto”.",
+    {
+      "entities":[
+        [
+          9,
+          15,
+          "INSULTO"
+        ],
+        [
+          92,
+          98,
+          "INSULTO"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mucha gente usa el “boludo” como vocativo, en cambio “pelotudo” se usa más como insulto.",
+    {
+      "entities":[
+        [
+          20,
+          26,
+          "INSULTO"
+        ],
+        [
+          54,
+          62,
+          "INSULTO"
+        ]
+      ]
+    }
+  ]
+]
